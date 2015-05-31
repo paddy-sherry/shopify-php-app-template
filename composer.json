@@ -1,0 +1,12 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "phpish/shopify": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+        	"configs",
+            "src"
+        ]
+    }
+}
